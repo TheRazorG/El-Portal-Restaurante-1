@@ -1,0 +1,9 @@
+
+
+
+Para que el Formulario funcione debe estar puesto en la carpeta de htdocs del Xampp.
+
+Tarda bastante en llegar el correo pero llega.
+No es la forma mas eficiente, pero como solucion puede valer.
+
+Un Saludo.
